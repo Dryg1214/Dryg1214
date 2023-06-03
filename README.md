@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :fire: My Stats :
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dryg1214)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My GitHub Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dryg1214&amp;langs_count=8&amp;theme=tokyonight)]()
