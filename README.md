@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dryg1214&theme=dark&hide_border=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dryg1214&theme=dark&hide_border=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&date_format=%5BY%20%5DM%20j&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dryg1214&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
