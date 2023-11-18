@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryg1214&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 !-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryg1214&layout=compact)](https://github.com/Dryg1214/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dryg1214)](https://github.com/Dryg1214/github-readme-stats)
